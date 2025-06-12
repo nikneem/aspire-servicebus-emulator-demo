@@ -1,0 +1,6 @@
+@HexMaster.AspireDemo.WebApi_HostAddress = http://localhost:5149
+
+GET {{HexMaster.AspireDemo.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
